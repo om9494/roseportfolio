@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+
+    
+}
+h1{
+    font-size:50px;
+}
+#gat1{
+    background-color:#D6D6D6;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    border-bottom: 25px;
+    color: rgb(89, 184, 193);
+}
+#gat2{
+    width: 250px;
+    height: 80px;
+    background-color:white;
+    padding: 50px;
+    
+    
+
+}
+#gat3{
+    background-color: #D6D6D6;
+    color: rgb(89, 184, 193);
+}
+
+
+
+#gat12{
+    position: absolute;
+    right: 660px;
+    background:rgb(89, 184, 193) ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px 20px;
+    height: 200px;
+    width: 200px;
+    box-shadow:5px 10px rgba(0, 0, 0, 0.2)
+    
+}
+div{
+    display: block;
+}
+#gat12 img{
+    height: 75px;
+    width: 75px;
+}
+#gat13{
+    position: absolute;
+    right: 660px;
+    background:rgb(89, 184, 193) ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px 20px;
+    height: 200px;
+    width: 200px;
+    box-shadow:5px 10px rgba(0, 0, 0, 0.2)
+}
+#gat13 img{
+    height: 75px;
+    width: 75px;
+}
+#gat14{
+    position: absolute;
+    right: 660px;
+    background:rgb(89, 184, 193) ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px 20px;
+    height: 200px;
+    width: 200px;
+    box-shadow:5px 10px rgba(0, 0, 0, 0.2)
+}
+#gat14 img{
+    height: 75px;
+    width: 75px;
+}
+#gat15{
+    position: absolute;
+    right: 660px;
+    background:rgb(89, 184, 193) ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px 20px;
+    height: 200px;
+    width: 200px;
+    box-shadow:5px 10px rgba(0, 0, 0, 0.2)
+}
+#gat15 img{
+    height: 75px;
+    width: 75px;
+}
+#gat16{
+    position: absolute;
+    right: 660px;
+    background:rgb(89, 184, 193) ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px 20px;
+    height: 200px;
+    width: 200px;
+    box-shadow:5px 10px rgba(0, 0, 0, 0.2)
+}
+#gat16 img{
+    height: 75px;
+    width: 75px;
+}
+#gat17{
+    position: absolute;
+    right: 660px;
+    background: #2C2B30 ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px 20px;
+    height: 200px;
+    width: 100%;
+    
+}
+#gat18{
+    position: absolute;
+    left: 1px;
+    background: #2C2B30;
+    padding: 30px 20px;
+    height: 200px;
+    width: 100%;
+    
+}
+#gat51{
+    font-family: 'helvetica neue' , Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid rgb(255, 232, 28);
+    background: rgb(255, 232, 28);
+    box-shadow: 1px 1px 2px rgba(0, 0,200, 0.4);
+    border-radius: 10px;
+    padding: 3px 10px;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+}
+#gat52{
+    background-color: #2C2B30;
+}
+#gat5{
+    color: bisque;
+    text-align: center;
+    
+}
